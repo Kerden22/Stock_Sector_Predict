@@ -11,6 +11,8 @@ Bu proje, **hisse senetlerinin sektörel benzerliklerini analiz etmek ve belirli
 
 ## 🚀 Kullanılan Teknolojiler ve Kütüphaneler
 
+Verileri çektiğim site https://stockanalysis.com/stocks/sector/financials/
+
 ### **🔹 Python Standart Kütüphaneleri:**
 
 -   `os`, `time`, `warnings` → Dosya işlemleri, zaman ölçümü ve hata yönetimi
