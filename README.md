@@ -1,7 +1,7 @@
 
 # 📊 Sektörel Benzerlik Analizi ve Sınıflandırma Projesi
 
-Bu proje, Sanayi ve Teknoloji Bakanlığı'nın Yapay Zeka Uzmanlık Programı kapsamında, TÜBİTAK’ta görev yapan İsmail Güzel hocamızın verdiği eğitim doğrultusunda, Veri Yoğun Uygulamalar dersi çerçevesinde gerçekleştirilmiştir.
+Bu proje, Sanayi ve Teknoloji Bakanlığı'nın Yapay Zeka Uzmanlık Eğitimi Programı kapsamında, TÜBİTAK’ta görev yapan İsmail Güzel hocamızın verdiği eğitim doğrultusunda, Veri Yoğun Uygulamalar dersi çerçevesinde gerçekleştirilmiştir.
 
 ## 📌 Proje Açıklaması
 
