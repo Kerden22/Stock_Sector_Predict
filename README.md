@@ -106,10 +106,19 @@ Verileri çektiğim site https://stockanalysis.com/stocks/sector/financials/
 ## 🔮 Eklenebilir Geliştirmeler
 
 ✅ **Daha fazla sektör eklenmesi** → Farklı piyasa segmentlerinden daha geniş veri ekleme. 
+
+
 ✅ **Alternatif öznitelik seçim yöntemleri** → Lasso yerine farklı yöntemlerle önemli özelliklerin belirlenmesi. 
+
+
 ✅ **Derin öğrenme ile optimizasyon** → Daha yüksek doğruluk elde etmek için LSTM veya Transformer tabanlı modellerin kullanılması.
+
+
 ✅ **Gerçek zamanlı veri analizi** → API tabanlı sistemlerle **canlı piyasa verileriyle tahmin yapılması**. 
+
+
 ✅ **Özelleştirilmiş yatırım önerileri** → Modele ek olarak **yatırımcı profiline uygun öneri algoritmalarının geliştirilmesi**.
+
 
 Bu proje, **yatırım stratejileri geliştirmek, hisse senedi analizinde sektörel benzerlikleri daha iyi anlamak ve finansal öngörüler sağlamak için** kullanılabilir. 🚀
 
